@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=askand123" alt="askand123" /></a> </p>
 
-- 🔭 I’m currently working on [Nothing Right Now](🙂🙂🙂🙂🙂)
+- 🔭 I’m currently working on [Thinking to work on Social Media cross-platform Applicatio](🙂🙂🙂🙂🙂)
 
 - 🌱 I’m currently learning **Flutter**
 
@@ -23,14 +23,14 @@
 
 - 📄 Know about my experiences [I am in the field of Coding since last 3 years](I am in the field of Coding since last 3 years)
 
-- ⚡ Fun fact **I am curious to learn about Technology**
+- ⚡ Fun fact **I Am in Class 8th**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/askand123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="askand123" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/askand singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="askand singh" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/coder 365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="coder 365" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/coder365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coder365" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://youtube.com/channel/ucyausrg9lwlp0tgo4ynkf3q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/ucyausrg9lwlp0tgo4ynkf3q" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/mMqEFuZS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/mMqEFuZS" height="30" width="40" /></a>
 </p>
 
