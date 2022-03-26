@@ -3,12 +3,6 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <title>Readme</title>
-    <style>
-      a{
-        color:black;
-        text-decoration: none;
-      }
-    </style>
   </head>
   <body>
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=askand123&label=Profile%20views&color=0e75b6&style=flat" alt="askand123" /> </p>
